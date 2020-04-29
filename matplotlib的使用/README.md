@@ -10,6 +10,17 @@
 8)为不同的图形添加图例  
 
 ***    
+### 7：散点图
+
+1)绘图(plt.scatter)
+
+***
+### 8：条形图
+
+1)绘图(plt.bar)-竖着的条形图
+2)绘图(plt.barh)-横着的条形图
+
+***
 
 ## Reference:  
 #### Matplotlib Documentation:  
