@@ -18,9 +18,9 @@
 ### 8~9：条形图
 
 1）绘图(plt.bar)-竖着的条形图  
-2）width=xxx
-3）绘图(plt.barh)-横着的条形图
-4）height=xxx
+2）width=xxx，调整宽度  
+3）绘图(plt.barh)-横着的条形图  
+4）height=xxx，调整宽度
 
 ***
 
