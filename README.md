@@ -1,5 +1,5 @@
 # Python-for-Data-Analysis
-Self study using PYTHON for data analysis
+Self study using Python for data analysis
 
 ***
 
