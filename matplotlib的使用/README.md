@@ -40,3 +40,7 @@ https://matplotlib.org/index.html
 https://matplotlib.org/gallery/index.html  
 #### matplotlib.pyplot.plot Tutorial:  
 https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html#matplotlib.pyplot.plot  
+
+#### plotly:  
+https://plot.ly/  
+https://plot.ly/python  
