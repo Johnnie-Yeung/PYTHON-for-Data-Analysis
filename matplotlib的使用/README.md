@@ -28,6 +28,9 @@
 #### Reference：  
 关于matplotlib绘制直方图偏移的问题：  
 https://blog.csdn.net/weixin_33829657/article/details/88743098  
+#### Reminder:  
+一般来说能够使用plt.hist方法的的是那些没有统计过的数据。  
+如果数据都是统计之后的数据,为了达到直方图的效果,需要绘制条形图。
 ***
 
 ## Reference:  
