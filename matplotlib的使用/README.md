@@ -36,5 +36,7 @@ https://blog.csdn.net/weixin_33829657/article/details/88743098
 ## Reference:  
 #### Matplotlib Documentation:  
 https://matplotlib.org/index.html  
+#### Matplotlib Gallery:  
+https://matplotlib.org/gallery/index.html  
 #### matplotlib.pyplot.plot Tutorial:  
 https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html#matplotlib.pyplot.plot  
