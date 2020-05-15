@@ -5,7 +5,7 @@ import numpy as np
 us_file_path = 'E:/software/untitled/US_video_data_numbers.csv'
 uk_file_path = 'E:/software/untitled/GB_video_data_numbers.csv'
 # loadtxt读取csv文件,delimiter分隔符，unpack矩阵转置
-t2 = np.loadtxt(us_file_path, delimiter=',', dtype='int')
+t2 = np.loadtxt(us_file_path, delimiter=',', dtype=int)
 
 print(t2)
 print('*'*100)
