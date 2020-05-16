@@ -16,6 +16,7 @@ plt.figure(figsize=(20,8),dpi=80)
 plt.hist(t_us_comment,_xticks_)
 
 plt.grid()
+plt.title('US youtube comments statistics')
 plt.xticks(_xticks_)
 plt.ylabel('video numbers')
 plt.xlabel('comment numbers')
